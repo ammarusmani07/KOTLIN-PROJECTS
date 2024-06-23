@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DashboardActivity"
+    android:background="@color/back">
+
+
+    <FrameLayout
+        android:id="@+id/myContainer"
+        android:layout_width="412dp"
+        android:layout_height="640dp"
+        app:layout_constraintBottom_toTopOf="@id/bottomNavigation"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"></FrameLayout>
+
+    <com.etebarian.meowbottomnavigation.MeowBottomNavigation
+        android:id="@+id/bottomNavigation"
+        android:layout_width="412dp"
+        android:layout_height="69dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:mbn_backgroundBottomColor="#EDD5CE"
+        app:mbn_circleColor="@color/app"
+        app:mbn_countBackgroundColor="#F9FAFD"
+        app:mbn_countTextColor="#EEEEEE"
+        app:mbn_defaultIconColor="@color/black"
+        app:mbn_rippleColor="#2f424242"
+        app:mbn_selectedIconColor="#FF9800"
+        app:mbn_shadowColor="#1f212121" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

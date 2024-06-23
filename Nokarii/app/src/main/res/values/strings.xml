@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Nokarii</string>
+    <string name="gender_hint">Select gender</string>
+    <string name="gender_description">Gender selection</string>
+    <string name="intro_point1">* Find Your Dream Job</string>
+    <string name="intro_point2">* Connect with Top Employers</string>
+    <string name="intro_point3">* Effortless Job Search </string>
+    <string name="intro_point4">* Boost Your Career with Nokarii</string>
+    <string name="loading">Loading...</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
