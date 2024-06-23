@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\EcommerceStore\\daemon\\8.0\\com.example.weatherapplication.app-mergeDebugResources-31:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\EcommerceStore\\daemon\\8.0\\com.example.weatherapplication.app-main-34:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.weatherapplication.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "com.example.weatherapplication.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\EcommerceStore\\daemon\\8.0\\com.example.weatherapplication.app-mergeDebugResources-31:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\EcommerceStore\\daemon\\8.0\\com.example.weatherapplication.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.weatherapplication.app-mergeDebugResources-31:/layout/activity_splash_screen.xml",
+        "source": "com.example.weatherapplication.app-main-34:/layout/activity_splash_screen.xml"
+    }
+]
