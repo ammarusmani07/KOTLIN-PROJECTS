@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "686756220442",
+    "firebase_url": "https://grocery-application-156cb-default-rtdb.firebaseio.com",
+    "project_id": "grocery-application-156cb",
+    "storage_bucket": "grocery-application-156cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686756220442:android:9c313d2488316509aa8ba3",
+        "android_client_info": {
+          "package_name": "com.quizapplications.e_commereceapplicationfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCABAiHeaLzcgD0amJEUE9yPaU46aMS8lA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
