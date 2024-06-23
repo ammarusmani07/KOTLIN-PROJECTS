@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_image8.png.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/image8.png"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_rv_image2.jpg.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/rv_image2.jpg"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_rv_image10.jpg.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/rv_image10.jpg"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.kidsstoryapp-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.kidsstoryapp-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_image6.jpeg.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/image6.jpeg"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_image3.jpg.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/image3.jpg"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_image5.jpg.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/image5.jpg"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.kidsstoryapp-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_rv_image4.jpg.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/rv_image4.jpg"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.kidsstoryapp-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_rv_image9.jpeg.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/rv_image9.jpeg"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.kidsstoryapp-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_image10.jpg.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/image10.jpg"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/layout_activity_splash.xml.flat",
+        "source": "com.example.kidsstoryapp-main-33:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_image2.png.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/image2.png"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_rv_image6.jpeg.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/rv_image6.jpeg"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_image7.png.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/image7.png"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.kidsstoryapp-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_background.png.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/background.png"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/layout_items.xml.flat",
+        "source": "com.example.kidsstoryapp-main-33:/layout/items.xml"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_image1.jpeg.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/image1.jpeg"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_right_arrow.png.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/right_arrow.png"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.kidsstoryapp-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/font_aclonica.xml.flat",
+        "source": "com.example.kidsstoryapp-main-33:/font/aclonica.xml"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_pause.png.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/pause.png"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.kidsstoryapp-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_story_book.png.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/story_book.png"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_rv_image7.jpeg.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/rv_image7.jpeg"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_rv_image1.jpeg.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/rv_image1.jpeg"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_play.png.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/play.png"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_image9.png.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/image9.png"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_rv_image5.jpg.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/rv_image5.jpg"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_image4.jpg.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/image4.jpg"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.kidsstoryapp-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/layout_activity_story.xml.flat",
+        "source": "com.example.kidsstoryapp-main-33:/layout/activity_story.xml"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.kidsstoryapp-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.kidsstoryapp-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.kidsstoryapp-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.kidsstoryapp-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_rv_image3.jpg.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/rv_image3.jpg"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.kidsstoryapp-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.kidsstoryapp-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.kidsstoryapp-merged_res-31:/drawable_rv_image8.jpg.flat",
+        "source": "com.example.kidsstoryapp-main-33:/drawable/rv_image8.jpg"
+    }
+]

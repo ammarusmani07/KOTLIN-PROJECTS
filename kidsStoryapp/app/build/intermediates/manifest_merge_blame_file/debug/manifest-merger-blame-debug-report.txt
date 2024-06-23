@@ -1,0 +1,158 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.kidsstoryapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="33" />
+10
+11    <permission
+11-->[androidx.core:core:1.9.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\b5ba732faec324c1f421e5180141a7a3\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+12        android:name="com.example.kidsstoryapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.9.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\b5ba732faec324c1f421e5180141a7a3\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.9.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\b5ba732faec324c1f421e5180141a7a3\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.example.kidsstoryapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.9.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\b5ba732faec324c1f421e5180141a7a3\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\b5ba732faec324c1f421e5180141a7a3\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:4:5-40:19
+18        android:allowBackup="true"
+18-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:5:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.9.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\b5ba732faec324c1f421e5180141a7a3\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+20        android:dataExtractionRules="@xml/data_extraction_rules"
+20-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:6:9-65
+21        android:debuggable="true"
+22        android:extractNativeLibs="false"
+23        android:fullBackupContent="@xml/backup_rules"
+23-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:7:9-54
+24        android:icon="@mipmap/ic_launcher"
+24-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:8:9-43
+25        android:label="@string/app_name"
+25-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:9:9-41
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:10:9-54
+27        android:supportsRtl="true"
+27-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:11:9-35
+28        android:testOnly="true"
+29        android:theme="@style/Theme.KidsStoryApp" >
+29-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:12:9-50
+30
+31        <!-- Splash Activity -->
+32        <activity
+32-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:16:9-23:20
+33            android:name="com.example.kidsstoryapp.storybook.SplashActivity"
+33-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:17:13-53
+34            android:exported="true" >
+34-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:18:13-36
+35            <intent-filter>
+35-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:19:13-22:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:20:17-69
+36-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:20:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:21:17-77
+38-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:21:27-74
+39            </intent-filter>
+40        </activity>
+41
+42        <!-- Main Activity -->
+43        <activity
+43-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:26:9-30:20
+44            android:name="com.example.kidsstoryapp.storybook.MainActivity"
+44-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:27:13-51
+45            android:exported="true" >
+45-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:28:13-36
+46
+47            <!-- Remove the intent-filter for MAIN and LAUNCHER -->
+48        </activity>
+49
+50        <!-- Story Activity -->
+51        <activity
+51-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:33:9-35:40
+52            android:name="com.example.kidsstoryapp.storybook.StoryActivity"
+52-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:34:13-52
+53            android:exported="false" />
+53-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:35:13-37
+54
+55        <meta-data
+55-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:37:9-39:57
+56            android:name="preloaded_fonts"
+56-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:38:13-43
+57            android:resource="@array/preloaded_fonts" />
+57-->C:\Users\Admin\AndroidStudioProjects\kidsStoryapp\app\src\main\AndroidManifest.xml:39:13-54
+58
+59        <provider
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\dc3a2527719af6ee81f6de9e4f2793d9\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+60            android:name="androidx.startup.InitializationProvider"
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\dc3a2527719af6ee81f6de9e4f2793d9\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+61            android:authorities="com.example.kidsstoryapp.androidx-startup"
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\dc3a2527719af6ee81f6de9e4f2793d9\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+62            android:exported="false" >
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\dc3a2527719af6ee81f6de9e4f2793d9\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+63            <meta-data
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\dc3a2527719af6ee81f6de9e4f2793d9\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+64                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+64-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\dc3a2527719af6ee81f6de9e4f2793d9\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+65                android:value="androidx.startup" />
+65-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\dc3a2527719af6ee81f6de9e4f2793d9\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+66            <meta-data
+66-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\4fd4ca8dd81cf9bf6a022cb7bceab493\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+67                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+67-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\4fd4ca8dd81cf9bf6a022cb7bceab493\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+68                android:value="androidx.startup" />
+68-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\4fd4ca8dd81cf9bf6a022cb7bceab493\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+69            <meta-data
+69-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+70                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+70-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+71                android:value="androidx.startup" />
+71-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+72        </provider>
+73
+74        <receiver
+74-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+75            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+75-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+76            android:directBootAware="false"
+76-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+77            android:enabled="true"
+77-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+78            android:exported="true"
+78-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+79            android:permission="android.permission.DUMP" >
+79-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+80            <intent-filter>
+80-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+81                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+82            </intent-filter>
+83            <intent-filter>
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+84                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+85            </intent-filter>
+86            <intent-filter>
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+87                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+88            </intent-filter>
+89            <intent-filter>
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+90                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AndroidStudioProjects\EcommerceStore\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+91            </intent-filter>
+92        </receiver>
+93    </application>
+94
+95</manifest>
